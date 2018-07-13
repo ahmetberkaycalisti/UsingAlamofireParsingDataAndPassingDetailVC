@@ -1,0 +1,6 @@
+framework module Pods_Alamofire_Server_Data {
+  umbrella header "Pods-Alamofire Server Data-umbrella.h"
+
+  export *
+  module * { export * }
+}
